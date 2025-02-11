@@ -2,7 +2,7 @@
 
 ![RestQuick Logo](https://drive.google.com/uc?id=1ZZl7WjGGqaCIgXUUdGa6fKffVIELD9Ox)
 
-**RestQuick** is a CLI tool to quickly generate REST API starter templates for various frameworks, including **Node.js** and **Django**. It simplifies project scaffolding, allowing developers to start building APIs without wasting time setting up the base structure.
+**RestQuick** is a CLI tool to quickly generate REST API starter templates for various frameworks, including **Node.js** and **Django**. It simplifies project scaffolding, allowing developers to start building APIs without wasting time setting up the base structure and include jwt authentication.
 
 ## ✨ Features
 - **Multiple Frameworks Supported**:
