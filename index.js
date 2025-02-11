@@ -75,6 +75,12 @@ program
             }
             if (stderr) {
               console.error(`⚠️ Stderr: ${stderr}`);
+              console.log(`\n✅ Successfully cloned template into ${projectName}!`);
+              console.log(`\n📂 Navigate to your project:\n`);
+              console.log(`cd ${projectName}`);
+              console.log(`\n🛠️ Install dependencies:\n`);
+              console.log(`npm install`);
+              console.log(`\n🚀 Start developing!\n`);
               return;
             }
 
