@@ -41,7 +41,7 @@ npx restquick init
 
 ```bash
 pnpx restquick init
-``
+```
 
 Follow the prompts to:
 1. Select your desired template.
