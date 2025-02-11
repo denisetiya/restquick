@@ -1,0 +1,32 @@
+{
+  "name": "restquick",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "A powerful CLI tool to quickly generate REST API starter templates for Node.js and Django projects, including Express.js, NestJS, and more.",
+  "main": "index.js",
+  "bin": {
+    "restquick": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli tool",
+    "REST API",
+    "Node.js",
+    "Express.js",
+    "NestJS",
+    "Django REST",
+    "template generator",
+    "API generator",
+    "typescript",
+    "starter templates",
+    "project scaffolding"
+  ],
+  "author": "Deni Setiya",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "inquirer": "^8.0.0"
+  }
+}
