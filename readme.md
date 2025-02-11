@@ -1,6 +1,6 @@
 # RestQuick
 
-![RestQuick Logo](https://drive.google.com/file/d/1ywDFiZj9p2op9sSqsWczopkjCLqS-jl2/view?usp=drive_link)
+![RestQuick Logo](https://drive.google.com/uc?id=1ywDFiZj9p2op9sSqsWczopkjCLqS-jl2)
 
 **RestQuick** is a CLI tool to quickly generate REST API starter templates for various frameworks, including **Node.js** and **Django**. It simplifies project scaffolding, allowing developers to start building APIs without wasting time setting up the base structure.
 
@@ -49,7 +49,7 @@ Follow the prompts to:
 
 ### Example Workflow
 1. **Prompt 1**: Choose a Template  
-   ![Choose Template](https://drive.google.com/file/d/1ywDFiZj9p2op9sSqsWczopkjCLqS-jl2/view?usp=drive_link)
+    ![Choose Template](https://drive.google.com/uc?id=1ywDFiZj9p2op9sSqsWczopkjCLqS-jl2)
 
 2. **Prompt 2**: Enter Project Name  
    If a folder with the entered name already exists, the CLI will prompt you to re-enter the name.
