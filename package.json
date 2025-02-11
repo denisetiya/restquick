@@ -1,6 +1,6 @@
 {
   "name": "restquick",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "A powerful CLI tool to quickly generate REST API starter templates for Node.js and Django projects, including Express.js, NestJS, and more.",
   "main": "index.js",
