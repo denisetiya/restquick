@@ -124,7 +124,7 @@ project-name/
 This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Feedback
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/denisetiya/restquick/issues) or contact me at **denisetiya@example.com**.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/denisetiya/restquick/issues) or contact me at **denisetiya009@gmail.com**.
 
 ---
 
