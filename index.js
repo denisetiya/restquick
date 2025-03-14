@@ -21,6 +21,10 @@ const templates = [
     value: 'https://github.com/denisetiya/typeExpress-jwt-template.git',
   },
   {
+    name: 'Express Rest + eslint + prettier (TS)',
+    value: 'https://github.com/denisetiya/TL-rest-express.git',
+  },
+  {
     name: 'NestJS Starter Template (TS)',
     value: 'https://github.com/denisetiya/nest-jwt-template.git',
   },
